@@ -1,4 +1,4 @@
-module github.com/kubeflow/kfctl/v3
+module github.com/jackskj/kfctl/v3
 
 require (
 	cloud.google.com/go v0.38.0
